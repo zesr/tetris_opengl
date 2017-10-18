@@ -1,0 +1,41 @@
+﻿  main.cpp
+d:\temp_code\tetris\tetris\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\temp_code\tetris\tetris\include\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\include\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(120): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(121): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\temp_code\tetris\tetris\main.cpp(159): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(160): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\temp_code\tetris\tetris\main.cpp(160): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(161): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\temp_code\tetris\tetris\main.cpp(161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(162): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\temp_code\tetris\tetris\main.cpp(162): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(229): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(236): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(237): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(253): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(254): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(255): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(256): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(379): warning C4018: '<': signed/unsigned mismatch
+d:\temp_code\tetris\tetris\main.cpp(386): warning C4018: '<': signed/unsigned mismatch
+d:\temp_code\tetris\tetris\main.cpp(387): warning C4018: '<': signed/unsigned mismatch
+d:\temp_code\tetris\tetris\main.cpp(390): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(392): warning C4018: '<': signed/unsigned mismatch
+d:\temp_code\tetris\tetris\main.cpp(394): warning C4244: 'argument': conversion from '::size_t' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(394): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(414): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(415): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(419): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(422): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+d:\temp_code\tetris\tetris\main.cpp(482): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Tetris.vcxproj -> D:\temp_code\Tetris\Debug\Tetris.exe
+  Tetris.vcxproj -> D:\temp_code\Tetris\Debug\Tetris.pdb (Partial PDB)
